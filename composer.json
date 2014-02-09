@@ -1,0 +1,7 @@
+{
+  "name": "modules/contrib/site_map",
+  "description": "Composer-compatible fork of the Site map Drupal module (v7.x-1.0+ only)",
+  "type": "library",
+  "license": "GPL-2.0",
+  "homepage": "http://drupal.org/project/site_map"
+}
