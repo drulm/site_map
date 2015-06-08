@@ -1,4 +1,4 @@
-Drupal site map module:
+Drupal site map module:  
 ----------------------
 Author - Fredrik Jonsson fredrik at combonet dot se
 Requires - Drupal 6
